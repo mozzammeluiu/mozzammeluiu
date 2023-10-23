@@ -26,7 +26,7 @@
 
 I am a Full Stack Developer with a huge love for React.js, Vue.js, Laravel, Everything API, RDBMS, SCSS and System Architecture. Currently, **I'm open to work and employment opportunities**.
 
-I am currently a Senior Software Engineer at Circle Fintech Limited
+I am currently a Senior Software Engineer at Circle Fintech Limited &
 I love to read books and listen to music.
 
 - 🌱 I’m currently learning many things, and I believe every day is a learning opportunity.
