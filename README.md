@@ -31,7 +31,7 @@ I love to read books and listen to music.
 
 - 🌱 I’m currently learning many things, and I believe every day is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
-- 💬 Ask me about Vue.js, React.js, Alpine.js, PHP, WordPress, Laravel and API development.
+- 💬 Ask me about Vue.js, React.js,node js,microservice, Laravel and API development.
 - 📫 I am just one mail away - [mozzammeluiu at mozzammeluiu@gmail dot com]
 - 😄 Pronouns: He, Fun & Happy 😄
 - :partying_face: Fun fact: I love to cook, I love to read, I love to travel around the world wide.
