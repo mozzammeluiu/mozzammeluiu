@@ -24,19 +24,19 @@
 ![Zorin](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=flat-square&logo=zorin&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I am a Full Stack Developer with a huge love for React.js, Vue.js, Laravel, Everything API, RDBMS, SCSS and System Architecture. Currently, **I'm open to work and employment opportunities**.
+I am a Full Stack Developer with a huge love for React Native, React.js, Vue.js, Laravel, Everything API, RDBMS, SCSS and System Architecture. Currently, **I'm open to work and employment opportunities**.
 
 I am currently a Senior Software Engineer at Circle Fintech Limited &
 I love to read books and listen to music.
 
 - 🌱 I’m currently learning many things, and I believe every day is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
-- 💬 Ask me about Vue.js, React.js, node js, microservice, Laravel and API development.
+- 💬 Ask me about Vue.js, React.js, Node.js, microservice, Laravel and API development.
 - 📫 I am just one mail away - [mozzammeluiu at mozzammeluiu@gmail.com]
 - 😄 Pronouns: He, Fun & Happy 😄
-- :partying_face: Fun fact: I love to cook, I love to read, I love to travel around the world wide.
+- :partying_face: Fun fact: I love to cook, read, and travel around the world.
 - :wrench: Tools - VSCode, Insomnia, Docker and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac and Linux (Zorin OS).
 
 ### Where to find me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/thestoryteller/](https://www.linkedin.com/in/muhammad-mozzammel-haque-243a3b104/)) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/muhammad-mozzammel-haque-243a3b104/)) 
